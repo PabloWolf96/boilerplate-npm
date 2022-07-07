@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://github.com/PabloWolf96/boilerplate-npm.git"
   },
-  "author": "Ikhena Owen"
+  "author": "Ikhena Owen",
+  "description": "A boilerplate for Node.js projects"
 }
