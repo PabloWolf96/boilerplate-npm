@@ -12,5 +12,9 @@
     "url": "https://github.com/PabloWolf96/boilerplate-npm.git"
   },
   "author": "Ikhena Owen",
-  "description": "A boilerplate for Node.js projects"
+  "description": "A boilerplate for Node.js projects",
+  "keywords": [
+    "node",
+    "express"
+  ]
 }
