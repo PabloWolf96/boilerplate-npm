@@ -15,6 +15,7 @@
   "description": "A boilerplate for Node.js projects",
   "keywords": [
     "node",
-    "express"
+    "express",
+    "freecodecamp"
   ]
 }
